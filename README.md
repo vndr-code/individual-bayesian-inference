@@ -1,4 +1,4 @@
-# Bayesian Inference for Degradation
+# Bayesian Inference for Degradation of single unit
 
 This project demonstrates how to use Bayesian inference with Turing.jl to estimate the degradation rate and initial output over time.
 
